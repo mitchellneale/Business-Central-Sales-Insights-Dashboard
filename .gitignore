@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.history/
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+*.tmp
+*.pbit.autosave
+*.pbix.autosave
+*.pbix~
+*.pbi
+*.log
+*.pyc
+.ipynb_checkpoints/
